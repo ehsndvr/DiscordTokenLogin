@@ -11,4 +11,4 @@ A JavaScript code is injected into the Discord page and the user logs in to the 
 
 # Credits
 
-I also wrote this code in JavaScript and Python, but I had trouble discussing the browser and the execution mode of the program in Windows, which I wrote in C # thanks to MRS1367.
+I also wrote this code in JavaScript and Python, but I had trouble discussing the browser and the execution mode of the program in Windows, which I wrote in C # thanks to (MRS1367)[https://stackoverflow.com/users/1625883/mrs1367].
