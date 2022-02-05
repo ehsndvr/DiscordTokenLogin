@@ -13,6 +13,7 @@ A JavaScript code is injected into the Discord page and the user logs in to the 
 
 Grab the `zip` file [x86](https://raw.githubusercontent.com/iamehsandvr/DiscordTokenLogin/main/Application/x86.zip).
 
+Grab the `rar` file [x86](https://raw.githubusercontent.com/iamehsandvr/DiscordTokenLogin/main/Application/x64.rar).
 
 # Credits
 
